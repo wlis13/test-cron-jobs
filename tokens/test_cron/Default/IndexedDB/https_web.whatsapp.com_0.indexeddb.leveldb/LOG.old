@@ -1,0 +1,3 @@
+2023/05/20-09:32:01.626 6b79 Reusing MANIFEST /home/wlisses/test-cron-jobs/tokens/test_cron/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/20-09:32:01.626 6b79 Recovering log #65
+2023/05/20-09:32:01.635 6b79 Reusing old log /home/wlisses/test-cron-jobs/tokens/test_cron/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000065.log 
