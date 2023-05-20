@@ -1,10 +1,10 @@
 {
   "name": "bot-whatsapp",
   "version": 2,
-  "builds": [{ "src": "src/index.js", "use": "@vercel/node" }],
+  "builds": [{ "src": "api/cron/index.js", "use": "@vercel/node" }],
   "routes": [{ 
     "src": "/(.*)", 
-    "dest": "src/index.js", 
+    "dest": "api/cron/index.js", 
     "headers": {
     "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
@@ -12,7 +12,7 @@
   } }],
   "crons": [
     {
-      "path": "/src/index.js",
+      "path": "/api/cron",
       "schedule": "3 10 * * *"
     }
   ]
