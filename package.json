@@ -2,7 +2,7 @@
   "name": "test-cron-jobs",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "api/cron/index.js",
   "scripts": {
     "dev": "nodemon .",
     "start": "node ."
