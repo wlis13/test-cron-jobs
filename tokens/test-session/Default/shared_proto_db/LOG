@@ -1,0 +1,3 @@
+2023/05/19-20:10:58.088 11174 Reusing MANIFEST /home/wlisses/test-cron-jobs/tokens/test-session/Default/shared_proto_db/MANIFEST-000001
+2023/05/19-20:10:58.088 11174 Recovering log #3
+2023/05/19-20:10:58.088 11174 Reusing old log /home/wlisses/test-cron-jobs/tokens/test-session/Default/shared_proto_db/000003.log 

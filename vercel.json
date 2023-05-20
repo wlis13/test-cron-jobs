@@ -1,18 +1,7 @@
 {
-  "name": "test-cron",
-  "version": 2,
-  "builds": [{ "src": "src/index.js", "use": "@vercel/node" }],
-  "routes": [{ 
-    "src": "/(.*)", 
-    "dest": "src/index.js", 
-    "headers": {
-    "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
-    "Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept"
-  } }],
   "crons": [
     {
-      "path": "/src/index.js",
+      "path": "/api/cron",
       "schedule": "14 16 * * *"
     }
   ]

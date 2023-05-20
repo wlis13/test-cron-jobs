@@ -1,0 +1,16 @@
+2023/05/19-20:14:26.271 114c2 Reusing MANIFEST /home/wlisses/test-cron-jobs/tokens/test-session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/19-20:14:26.271 114c2 Recovering log #39
+2023/05/19-20:14:26.337 114c2 Reusing old log /home/wlisses/test-cron-jobs/tokens/test-session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000039.log 
+2023/05/19-20:14:41.619 114c4 Level-0 table #46: started
+2023/05/19-20:14:41.740 114c4 Level-0 table #46: 1021045 bytes OK
+2023/05/19-20:14:41.777 114c4 Delete type=0 #39
+2023/05/19-20:14:41.890 114c4 Compacting 1@1 + 3@2 files
+2023/05/19-20:14:42.053 114c4 Generated table #47@1: 15010 keys, 2170990 bytes
+2023/05/19-20:14:42.243 114c4 Generated table #48@1: 40561 keys, 2207360 bytes
+2023/05/19-20:14:42.344 114c4 Generated table #49@1: 37566 keys, 789700 bytes
+2023/05/19-20:14:42.344 114c4 Compacted 1@1 + 3@2 files => 5168050 bytes
+2023/05/19-20:14:42.384 114c4 compacted to: files[ 0 0 3 0 0 0 0 ]
+2023/05/19-20:14:42.385 114c4 Delete type=2 #46
+2023/05/19-20:14:42.385 114c4 Delete type=2 #43
+2023/05/19-20:14:42.385 114c4 Delete type=2 #42
+2023/05/19-20:14:42.385 114c4 Delete type=2 #41

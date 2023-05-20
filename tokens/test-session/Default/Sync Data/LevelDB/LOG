@@ -1,0 +1,3 @@
+2023/05/19-20:10:57.833 11173 Reusing MANIFEST /home/wlisses/test-cron-jobs/tokens/test-session/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/05/19-20:10:57.834 11173 Recovering log #3
+2023/05/19-20:10:57.834 11173 Reusing old log /home/wlisses/test-cron-jobs/tokens/test-session/Default/Sync Data/LevelDB/000003.log 
